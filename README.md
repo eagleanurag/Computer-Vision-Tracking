@@ -116,15 +116,15 @@ Anurag Pandey - [@eagleanurag](https://twitter.com/eagleanurag) - helpmeinprojec
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/master-coro/cv-object-tracking.svg?style=flat-square
-[contributors-url]: https://github.com/master-coro/cv-object-tracking/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/master-coro/cv-object-tracking.svg?style=flat-square
-[forks-url]: https://github.com/master-coro/cv-object-tracking/network/members
-[stars-shield]: https://img.shields.io/github/stars/master-coro/cv-object-tracking.svg?style=flat-square
-[stars-url]: https://github.com/master-coro/cv-object-tracking/stargazers
-[issues-shield]: https://img.shields.io/github/issues/master-coro/cv-object-tracking.svg?style=flat-square
-[issues-url]: https://github.com/master-coro/cv-object-tracking/issues
-[license-shield]: https://img.shields.io/github/license/master-coro/cv-object-tracking.svg?style=flat-square
-[license-url]: https://github.com/master-coro/cv-object-tracking/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/eagleanurag/Computer-Vision-Tracking.svg?style=flat-square
+[contributors-url]: https://github.com/eagleanurag/Computer-Vision-Tracking/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/eagleanurag/Computer-Vision-Tracking.svg?style=flat-square
+[forks-url]: https://github.com/eagleanurag/Computer-Vision-Tracking/network/members
+[stars-shield]: https://img.shields.io/github/stars/eagleanurag/Computer-Vision-Tracking.svg?style=flat-square
+[stars-url]: https://github.com/eagleanurag/Computer-Vision-Tracking/stargazers
+[issues-shield]: https://img.shields.io/github/issues/eagleanurag/Computer-Vision-Tracking.svg?style=flat-square
+[issues-url]: https://github.com/eagleanurag/Computer-Vision-Tracking/issues
+[license-shield]: https://img.shields.io/github/license/eagleanurag/Computer-Vision-Tracking?style=flat-square
+[license-url]: https://github.com/eagleanurag/Computer-Vision-Tracking/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/eagleanurag
